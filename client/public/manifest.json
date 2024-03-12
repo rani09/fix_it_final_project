@@ -1,0 +1,27 @@
+{
+  "short_name": "Fix It",
+  "name": "Fix It",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose":"any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose":"any maskable"
+    }
+  ],
+  "id":"/?homescreen=1",
+  "start_url": "/?homescreen=1",
+  "display": "standalone",
+  "background_color": "#ffffff"
+}
